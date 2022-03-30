@@ -1,4 +1,4 @@
-'''
+
 #
 # This program builds an index of words and the pages on which they occur from a datafile "index_data.txt"
 # It demonstrates the use of a complex data structure: a dictionary of sets
@@ -101,5 +101,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-'''
 
