@@ -1,6 +1,3 @@
-# Name: Yuanhe Zhao
-# Student number:
-# Assignment 3: Sentiment Analysis
 
 
 def latitude_longitude_comparison(latitude, longitude):
